@@ -1,0 +1,2 @@
+d:\Users\Admin\source\repos\tasktodo17\tasktodo17\obj\Debug\tasktodo17.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\tasktodo17\tasktodo17\obj\Debug\tasktodo17.csproj.CoreCompileInputs.cache
